@@ -31,19 +31,9 @@
 
 # Active translations for this locale:
 
-title: "Garder Android ouvert"
+
 description: >-
   Plaidoyer pour Android en tant que plateforme libre et ouverte permettant à tous de développer des applications.
-hero_lede: "Votre téléphone est sur le point de ne plus vous appartenir."
-hero_countdown_label: "jours avant le verrouillage"
-hero_kicker: "Toutes les apps. Tous les appareils. Aucune possibilité de refus."
-what_heading: "Ce que Google prépare"
-what_registration: "L'inscription exige :"
-what_req_fee: "Payer des frais à Google"
-what_req_terms: "Accepter les conditions générales de Google"
-what_req_id: "Fournir une pièce d'identité officielle"
-what_req_signing: "Télécharger la preuve de votre clé de signature privée"
-what_req_appids: "Lister tous les identifiants d'applications actuels et futurs"
 impact_heading: "Qui est touché"
 impact_you_heading: "Vous"
 impact_dev_heading: "Les développeurs indépendants"
@@ -84,25 +74,25 @@ footer_help_translate: "Aider à traduire"
 # ============================================================================
 
 # Meta
-# title: "Keep Android Open"
-# description: "Your phone is about to stop being yours. In September 2026, Google will block every Android app whose developer hasn't registered with them."
+title: "Keep Android Open" # NE PAS CHANGER
+description: "Votre téléphone est sur le point de ne plus vous appartenir. En septembre 2026, Google bloquera toutes les applications Android dont le développeur ne se sera pas enregistré auprès de ses services."
 
 # Hero
-# hero_lede: "Your phone is about to stop being yours."
-# hero_countdown_label: "days until lockdown"
-# hero_sub: "Starting September 2026, a silent update, nonconsensually pushed by Google, will <strong>block every Android app</strong> whose developer hasn't registered with Google, signed their contract, paid up, and handed over government ID."
-# hero_kicker: "Every app and every device, worldwide, with no opt-out."
+hero_lede: "Votre téléphone est sur le point de ne plus vous appartenir."
+hero_countdown_label: "jours avant le verrouillage"
+hero_kicker: "Toutes les applis. Tous les appareils. Aucune possibilité de refus."
+hero_sub: "À partir de septembre 2026, une mise à jour silencieuse, imposée sans consentement par Google, </strong>bloquera toutes les applications Android</strong> dont le développeur ne s'est pas enregistré auprès de Google, n'a pas signé leur contrat, payé et remis sa pièce d'identité officielle."
 
 # What Google is doing
-# what_heading: "What Google is doing"
-# what_intro: "In August 2025, Google <a href=\"https://developer.android.com/developer-verification\" target=\"_blank\">announced &#8599;</a> a new requirement: starting September 2026, <strong>every Android app developer must register centrally with Google</strong> before their software can be installed on any device. Not just Play Store apps: all apps. This includes apps shared between friends, distributed through <a href=\"https://f-droid.org\" target=\"_blank\">F-Droid &#8599;</a>, built by hobbyists for personal use. Independent developers, church and community groups, and hobbyists alike will all be frozen out of being able to develop and distribute their software."
-# what_registration: "Registration requires:"
-# what_req_fee: "Paying a fee to Google"
-# what_req_terms: "Agreeing to Google's Terms and Conditions"
-# what_req_id: "Surrendering your government-issued identification"
-# what_req_signing: "Providing evidence of your private signing key"
-# what_req_appids: "Listing all current and all future application identifiers"
-# what_pullquote: "If a developer does not comply, their apps get silently blocked on every Android device worldwide."
+what_heading: "Ce que Google prépare"
+what_intro: "En août 2025, Google <a href=\"https://developer.android.com/developer-verification\" target=\"_blank\">a annoncé &#8599;</a> une nouvelle exigence : à partir de septembre 2026, <strong>tous les développeurs d’applications Android devront obligatoirement s’enregistrer auprès de Google</strong> avant que leurs logiciels puissent être installés sur un appareil. Cela concerne toutes les applications, et pas seulement celles du Play Store. Cela inclut les applications partagées entre amis, distribuées via <a href=\"https://f-droid.org\" target=\"_blank\">F-Droid &#8599;</a>, ou encore celles développées par des amateurs pour un usage personnel. Les développeurs indépendants, les associations et les amateurs seront tous empêchés de développer et de distribuer leurs logiciels."
+what_registration: "L'inscription exige :"
+what_req_fee: "Payer des frais à Google"
+what_req_terms: "Accepter les conditions générales de Google"
+what_req_id: "Fournir une pièce d'identité officielle"
+what_req_signing: "Télécharger la preuve de votre clé de signature privée"
+what_req_appids: "Lister tous les identifiants d'applications actuels et futurs"
+what_pullquote: "Si un développeur refuse de se plier à ces règles, ses applications sont silencieusement bloquées sur tous les appareils Android du monde entier."
 
 # Who this hurts
 # impact_heading: "Who this hurts"
